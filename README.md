@@ -37,3 +37,5 @@ Assignment
 # 31-01-25>
   -Done the assignment of the string using builtin function and read oops concept
   - Studied the study material of oops concepts and solved the coding questions of it.
+# 01-02-25>
+ - Studied the pillars of oops and implemented the basic codes of oops.
