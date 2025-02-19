@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BL_Practices
 {
-    internal class TaskScheduler
+    internal class LongestConsecutiveSequence
     {
     }
 }

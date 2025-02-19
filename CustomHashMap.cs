@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BL_Practices
 {
-    internal class OnlineTicketReservationSystem
+    internal class CustomHashMap
     {
     }
 }

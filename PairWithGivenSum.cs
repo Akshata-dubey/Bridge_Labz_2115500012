@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BL_Practices
 {
-    internal class Undo_RedoFunctionality
+    internal class PairWithGivenSum
     {
     }
 }
