@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6kR1j7yHf0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\Training\\UserRegistrationWebAPI\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\nlog\\5.4.0\\nlog.5.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

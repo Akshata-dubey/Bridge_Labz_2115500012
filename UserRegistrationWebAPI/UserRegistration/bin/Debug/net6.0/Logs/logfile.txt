@@ -1,0 +1,212 @@
+2025-03-01 21:51:45.2473 | Info | Application Starting... 
+2025-03-01 21:51:48.5326 | Info | Now listening on: https://localhost:7132 
+2025-03-01 21:51:48.8420 | Info | Now listening on: http://localhost:5019 
+2025-03-01 21:51:49.7724 | Info | Application started. Press Ctrl+C to shut down. 
+2025-03-01 21:51:49.7724 | Info | Hosting environment: Development 
+2025-03-01 21:51:49.7724 | Info | Content root path: C:\Users\HP\OneDrive\Desktop\Training\UserRegistrationWebAPI\UserRegistration\ 
+2025-03-01 21:51:56.8095 | Info | Request starting HTTP/2 GET https://localhost:7132/UserRegistration - - 
+2025-03-01 21:51:57.8363 | Info | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 21:51:57.9689 | Info | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 21:51:57.9808 | Info | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 21:51:57.9956 | Info | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 23.4068ms 
+2025-03-01 21:51:57.9956 | Info | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 21:51:57.9956 | Info | Request finished HTTP/2 GET https://localhost:7132/UserRegistration - - - 200 - text/plain;+charset=utf-8 1193.4854ms 
+2025-03-01 21:54:41.1139 | INFO | UserRegistration.Program | Application Starting... | 
+2025-03-01 21:54:42.0815 | INFO | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7132 | 
+2025-03-01 21:54:42.0815 | INFO | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5019 | 
+2025-03-01 21:54:42.1797 | INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2025-03-01 21:54:42.1797 | INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2025-03-01 21:54:42.1797 | INFO | Microsoft.Hosting.Lifetime | Content root path: C:\Users\HP\OneDrive\Desktop\Training\UserRegistrationWebAPI\UserRegistration\ | 
+2025-03-01 21:54:43.9671 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7132/UserRegistration - - | 
+2025-03-01 21:54:44.2506 | INFO | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' | 
+2025-03-01 21:54:44.3516 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). | 
+2025-03-01 21:54:44.3684 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. | 
+2025-03-01 21:54:44.3882 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 32.764ms | 
+2025-03-01 21:54:44.3882 | INFO | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' | 
+2025-03-01 21:54:44.3950 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7132/UserRegistration - - - 200 - text/plain;+charset=utf-8 434.2100ms | 
+2025-03-01 21:57:46.1259 | INFO | UserRegistration.Program | Application Starting... 
+2025-03-01 21:57:46.9950 | INFO | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7132 
+2025-03-01 21:57:47.0030 | INFO | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5019 
+2025-03-01 21:57:47.0601 | INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-03-01 21:57:47.0601 | INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-03-01 21:57:47.0601 | INFO | Microsoft.Hosting.Lifetime | Content root path: C:\Users\HP\OneDrive\Desktop\Training\UserRegistrationWebAPI\UserRegistration\ 
+2025-03-01 21:57:47.8889 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7132/UserRegistration - - 
+2025-03-01 21:57:48.2444 | INFO | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 21:57:48.2744 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 21:57:48.2856 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 21:57:48.3061 | INFO | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 26.4864ms 
+2025-03-01 21:57:48.3061 | INFO | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 21:57:48.3061 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7132/UserRegistration - - - 200 - text/plain;+charset=utf-8 427.0076ms 
+2025-03-01 22:02:06.4831 | INFO | Starting Web API... 
+2025-03-01 22:02:07.3647 | INFO | Now listening on: https://localhost:7132 
+2025-03-01 22:02:07.3647 | INFO | Now listening on: http://localhost:5019 
+2025-03-01 22:02:07.4292 | INFO | Application started. Press Ctrl+C to shut down. 
+2025-03-01 22:02:07.4292 | INFO | Hosting environment: Development 
+2025-03-01 22:02:07.4292 | INFO | Content root path: C:\Users\HP\OneDrive\Desktop\Training\UserRegistrationWebAPI\UserRegistration\ 
+2025-03-01 22:02:08.2043 | INFO | Request starting HTTP/2 GET https://localhost:7132/UserRegistration - - 
+2025-03-01 22:02:08.3652 | INFO | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:02:08.4057 | INFO | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:02:08.4156 | INFO | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 5.7824ms 
+2025-03-01 22:02:08.4156 | INFO | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:02:08.4156 | ERROR | An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'BusinessLayer.Services.UserRegistrationBL' while attempting to activate 'UserRegistration.Controllers.UserRegistrationController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method2(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass7_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-03-01 22:02:08.5717 | INFO | Request finished HTTP/2 GET https://localhost:7132/UserRegistration - - - 500 - text/html;+charset=utf-8 369.4096ms 
+2025-03-01 22:02:08.5942 | INFO | Request starting HTTP/2 GET https://localhost:7132/_vs/browserLink - - 
+2025-03-01 22:02:08.5942 | INFO | Request starting HTTP/2 GET https://localhost:7132/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-01 22:02:08.6001 | INFO | Request finished HTTP/2 GET https://localhost:7132/_framework/aspnetcore-browser-refresh.js - - - 200 12364 application/javascript;+charset=utf-8 5.8442ms 
+2025-03-01 22:02:09.1216 | INFO | Request finished HTTP/2 GET https://localhost:7132/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 527.4510ms 
+2025-03-01 22:03:35.2266 | INFO | Starting Web API... 
+2025-03-01 22:03:36.1181 | INFO | Now listening on: https://localhost:7132 
+2025-03-01 22:03:36.1181 | INFO | Now listening on: http://localhost:5019 
+2025-03-01 22:03:36.1781 | INFO | Application started. Press Ctrl+C to shut down. 
+2025-03-01 22:03:36.1781 | INFO | Hosting environment: Development 
+2025-03-01 22:03:36.1781 | INFO | Content root path: C:\Users\HP\OneDrive\Desktop\Training\UserRegistrationWebAPI\UserRegistration\ 
+2025-03-01 22:03:36.8946 | INFO | Request starting HTTP/2 GET https://localhost:7132/UserRegistration - - 
+2025-03-01 22:03:37.0772 | INFO | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:03:37.1015 | INFO | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:03:37.1015 | INFO | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 22:03:37.1260 | INFO | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 20.5692ms 
+2025-03-01 22:03:37.1260 | INFO | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:03:37.1307 | INFO | Request finished HTTP/2 GET https://localhost:7132/UserRegistration - - - 200 - text/plain;+charset=utf-8 238.2062ms 
+2025-03-01 22:10:45.9926 | Info | UserRegistration.Program | Starting Web API... 
+2025-03-01 22:10:47.3467 | Info | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7132 
+2025-03-01 22:10:47.3467 | Info | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5019 
+2025-03-01 22:10:47.4130 | Info | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-03-01 22:10:47.4130 | Info | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-03-01 22:10:47.4130 | Info | Microsoft.Hosting.Lifetime | Content root path: C:\Users\HP\OneDrive\Desktop\Training\UserRegistrationWebAPI\UserRegistration\ 
+2025-03-01 22:10:48.4105 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7132/UserRegistration - - 
+2025-03-01 22:10:48.6451 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:10:48.6731 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:10:48.6842 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 22:10:48.7002 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 23.1428ms 
+2025-03-01 22:10:48.7002 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:10:48.7002 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7132/UserRegistration - - - 200 - text/plain;+charset=utf-8 296.9219ms 
+2025-03-01 22:13:22.1588 | Info | UserRegistration.Program | Starting Web API... 
+2025-03-01 22:13:23.2735 | Info | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7132 
+2025-03-01 22:13:23.2918 | Info | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5019 
+2025-03-01 22:13:23.3573 | Info | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-03-01 22:13:23.3573 | Info | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-03-01 22:13:23.3573 | Info | Microsoft.Hosting.Lifetime | Content root path: C:\Users\HP\OneDrive\Desktop\Training\UserRegistrationWebAPI\UserRegistration\ 
+2025-03-01 22:13:23.9136 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7132/UserRegistration - - 
+2025-03-01 22:13:24.0773 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:13:24.1080 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:13:24.1177 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 22:13:24.1321 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 20.0365ms 
+2025-03-01 22:13:24.1321 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:13:24.1321 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7132/UserRegistration - - - 200 - text/plain;+charset=utf-8 227.2948ms 
+2025-03-01 22:14:43.2246 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 GET https://localhost:7132/UserRegistration application/json 130 
+2025-03-01 22:14:43.2246 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:14:43.2246 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:14:43.2246 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 22:14:43.2728 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 45.6439ms 
+2025-03-01 22:14:43.2728 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:14:43.2728 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 GET https://localhost:7132/UserRegistration application/json 130 - 200 - text/plain;+charset=utf-8 49.0857ms 
+2025-03-01 22:16:35.6611 | Info | UserRegistration.Program | Starting Web API... 
+2025-03-01 22:16:37.4601 | Info | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7132 
+2025-03-01 22:16:37.4738 | Info | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5019 
+2025-03-01 22:16:37.5295 | Info | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-03-01 22:16:37.5295 | Info | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-03-01 22:16:37.5295 | Info | Microsoft.Hosting.Lifetime | Content root path: C:\Users\HP\OneDrive\Desktop\Training\UserRegistrationWebAPI\UserRegistration\ 
+2025-03-01 22:16:39.2032 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7132/UserRegistration - - 
+2025-03-01 22:16:39.9130 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:16:39.9421 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:16:39.9421 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 22:16:39.9687 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 22.1158ms 
+2025-03-01 22:16:39.9687 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:16:39.9733 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7132/UserRegistration - - - 200 - text/plain;+charset=utf-8 772.1416ms 
+2025-03-01 22:16:48.5025 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 GET https://localhost:7132/UserRegistration application/json 130 
+2025-03-01 22:16:48.6954 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:16:48.6954 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:16:48.6954 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 22:16:48.7145 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 18.6153ms 
+2025-03-01 22:16:48.7145 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:16:48.7145 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 GET https://localhost:7132/UserRegistration application/json 130 - 200 - text/plain;+charset=utf-8 213.2055ms 
+2025-03-01 22:16:53.3795 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 130 
+2025-03-01 22:16:53.5048 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:16:53.5314 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Registration", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Registration(ModelLayer.DTO.UserDTO) on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:16:53.5773 | Info | BusinessLayer.Services.UserRegistrationBL | Checking if user kashishsaxena2803@gmail.com already exists. 
+2025-03-01 22:16:53.7042 | Info | RepositoryLayer.Services.UserRegistrationRL | Fetching all registered users. 
+2025-03-01 22:16:53.7042 | Info | BusinessLayer.Services.UserRegistrationBL | User kashishsaxena2803@gmail.com is being registered. 
+2025-03-01 22:16:53.7042 | Info | RepositoryLayer.Services.UserRegistrationRL | Adding user kashishsaxena2803@gmail.com to the database. 
+2025-03-01 22:16:53.7042 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[ModelLayer.DTO.UserDTO, ModelLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-01 22:16:53.7094 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration) in 177.5095ms 
+2025-03-01 22:16:53.8243 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:16:53.8243 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 130 - 200 - application/json;+charset=utf-8 445.0651ms 
+2025-03-01 22:17:11.8598 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 129 
+2025-03-01 22:17:11.8691 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:17:11.8691 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Registration", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Registration(ModelLayer.DTO.UserDTO) on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:17:11.8880 | Info | BusinessLayer.Services.UserRegistrationBL | Checking if user kashishsaxena280304@gmail.com already exists. 
+2025-03-01 22:17:11.8880 | Info | RepositoryLayer.Services.UserRegistrationRL | Fetching all registered users. 
+2025-03-01 22:17:11.8880 | Info | BusinessLayer.Services.UserRegistrationBL | User kashishsaxena280304@gmail.com is being registered. 
+2025-03-01 22:17:11.8880 | Info | RepositoryLayer.Services.UserRegistrationRL | Adding user kashishsaxena280304@gmail.com to the database. 
+2025-03-01 22:17:11.9006 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[ModelLayer.DTO.UserDTO, ModelLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-01 22:17:11.9006 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration) in 26.4041ms 
+2025-03-01 22:17:11.9006 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:17:11.9006 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 129 - 200 - application/json;+charset=utf-8 42.0866ms 
+2025-03-01 22:17:36.9379 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 124 
+2025-03-01 22:17:36.9482 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:17:36.9482 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Registration", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Registration(ModelLayer.DTO.UserDTO) on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:17:36.9482 | Info | BusinessLayer.Services.UserRegistrationBL | Checking if user kashishsaxena280304@gmail.com already exists. 
+2025-03-01 22:17:36.9482 | Info | RepositoryLayer.Services.UserRegistrationRL | Fetching all registered users. 
+2025-03-01 22:17:36.9482 | Info | BusinessLayer.Services.UserRegistrationBL | User kashishsaxena280304@gmail.com is being registered. 
+2025-03-01 22:17:36.9482 | Info | RepositoryLayer.Services.UserRegistrationRL | Adding user kashishsaxena280304@gmail.com to the database. 
+2025-03-01 22:17:36.9482 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[ModelLayer.DTO.UserDTO, ModelLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-01 22:17:36.9482 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration) in 0.9969ms 
+2025-03-01 22:17:36.9482 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:17:36.9482 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 124 - 200 - application/json;+charset=utf-8 12.2789ms 
+2025-03-01 22:23:49.9347 | Info | UserRegistration.Program | Starting Web API... 
+2025-03-01 22:23:50.9735 | Info | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7132 
+2025-03-01 22:23:50.9882 | Info | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5019 
+2025-03-01 22:23:51.1022 | Info | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-03-01 22:23:51.1022 | Info | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-03-01 22:23:51.1022 | Info | Microsoft.Hosting.Lifetime | Content root path: C:\Users\HP\OneDrive\Desktop\Training\UserRegistrationWebAPI\UserRegistration\ 
+2025-03-01 22:23:51.8841 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7132/UserRegistration - - 
+2025-03-01 22:23:52.0815 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:23:52.1287 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:23:52.1287 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 22:23:52.1570 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 24.6109ms 
+2025-03-01 22:23:52.1570 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:23:52.1619 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7132/UserRegistration - - - 200 - text/plain;+charset=utf-8 279.6734ms 
+2025-03-01 22:24:08.4755 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 124 
+2025-03-01 22:24:08.4755 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:24:08.5013 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Registration", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Registration(ModelLayer.DTO.UserDTO) on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:24:08.5550 | Info | BusinessLayer.Services.UserRegistrationBL | Checking if user kashishsaxena280304@gmail.com already exists. 
+2025-03-01 22:24:08.5550 | Info | RepositoryLayer.Services.UserRegistrationRL | Fetching all registered users. 
+2025-03-01 22:24:08.5550 | Info | BusinessLayer.Services.UserRegistrationBL | User kashishsaxena280304@gmail.com is being registered. 
+2025-03-01 22:24:08.5550 | Info | RepositoryLayer.Services.UserRegistrationRL | Registering user: kashishsaxena280304@gmail.com 
+2025-03-01 22:24:08.5550 | Info | RepositoryLayer.Services.UserRegistrationRL | Total registered users: 1 
+2025-03-01 22:24:08.5550 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[ModelLayer.DTO.UserDTO, ModelLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-01 22:24:08.5550 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration) in 60.9882ms 
+2025-03-01 22:24:08.5550 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:24:08.5550 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 124 - 200 - application/json;+charset=utf-8 87.7983ms 
+2025-03-01 22:24:24.9405 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 130 
+2025-03-01 22:24:24.9405 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:24:24.9405 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Registration", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Registration(ModelLayer.DTO.UserDTO) on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:24:24.9405 | Info | BusinessLayer.Services.UserRegistrationBL | Checking if user kashishsaxena2803@gmail.com already exists. 
+2025-03-01 22:24:24.9405 | Info | RepositoryLayer.Services.UserRegistrationRL | Fetching all registered users. 
+2025-03-01 22:24:24.9405 | Info | BusinessLayer.Services.UserRegistrationBL | User kashishsaxena2803@gmail.com is being registered. 
+2025-03-01 22:24:24.9405 | Info | RepositoryLayer.Services.UserRegistrationRL | Registering user: kashishsaxena2803@gmail.com 
+2025-03-01 22:24:24.9405 | Info | RepositoryLayer.Services.UserRegistrationRL | Total registered users: 2 
+2025-03-01 22:24:24.9405 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[ModelLayer.DTO.UserDTO, ModelLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-01 22:24:24.9405 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration) in 3.3977ms 
+2025-03-01 22:24:24.9405 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Registration (UserRegistration)' 
+2025-03-01 22:24:24.9405 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 POST https://localhost:7132/UserRegistration application/json 130 - 200 - application/json;+charset=utf-8 10.8408ms 
+2025-03-01 22:32:02.0953 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/1.1 GET https://localhost:7132/UserRegistration application/json 130 
+2025-03-01 22:32:02.0979 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:32:02.0979 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "UserRegistration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller UserRegistration.Controllers.UserRegistrationController (UserRegistration). 
+2025-03-01 22:32:02.0979 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. 
+2025-03-01 22:32:02.0979 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration) in 3.5746ms 
+2025-03-01 22:32:02.0979 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'UserRegistration.Controllers.UserRegistrationController.Get (UserRegistration)' 
+2025-03-01 22:32:02.0979 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/1.1 GET https://localhost:7132/UserRegistration application/json 130 - 200 - text/plain;+charset=utf-8 10.6615ms 
